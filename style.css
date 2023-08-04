@@ -1,0 +1,15 @@
+/*Golbal Set CSS file */
+body{
+    
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+}
+/* Set calss dis  */
+.dis{
+    text-align: right;
+}
+
+
+.txt p{
+    /* text  */
+    text-align: left;
+}
